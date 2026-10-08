@@ -1,93 +1,41 @@
-<h1 align="center"><b>Hola, Soy Nestordev 👨‍💻</b></h1>
+<h1 align="center">Hola, soy Néstor 👋</h1>
 
 <p align="center">
-  <b>Backend Developer | Java • Spring Boot • PostgreSQL • REST APIs</b>
+  <b>Backend Developer Java Jr. · Spring Boot · PostgreSQL · APIs REST</b><br/>
+  Huaraz, Áncash, Perú 🇵🇪
 </p>
 
 <p align="center">
-  Construyo APIs REST escalables y sistemas backend robusto en producción.
-  <br/>
-  Especializado en: Facturación Electrónica SUNAT, Arquitectura Hexagonal, CQRS
+  <a href="https://www.linkedin.com/in/nestordev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://nestoredi.dev"><img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://x.com/nestoredidev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
 ---
 
-## 🛠️ **Backend Stack**
+## 👨‍💻 Sobre mí
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" height="50" alt="jwt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="50" alt="hibernate logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
-</div>
+Desarrollador backend enfocado en construir APIs REST limpias, seguras y mantenibles con **Java y Spring Boot**. Me gusta aplicar buenas prácticas de arquitectura (**Hexagonal** y **CQRS**) y tengo experiencia práctica con **facturación electrónica SUNAT**.
 
-<br/>
-
-## 🎨 **Frontend Stack**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
-</div>
-
-<br/>
-
-## 🔧 **Herramientas & DevOps**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
-</div>
+- 🎓 Técnico en Ingeniería de Software con Inteligencia Artificial, SENATI
+- 🔐 Autenticación y autorización con Spring Security y JWT
+- 🌱 Aprendiendo ahora: **Apache Kafka**, **Keycloak** y **microservicios**
+- 📫 Abierto a oportunidades como Backend Developer Java Jr.
 
 ---
 
-## 📊 **GitHub Stats**
+## 🛠️ Stack técnico
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nestoredidev&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
+**Backend**
 
----
+![Java](https://skillicons.dev/icons?i=java,spring,postgres,hibernate,docker&perline=10)
 
-## 📬 **Contacto**
+**Frontend**
 
-<div align="center">
-  <a href="https://x.com/nestoredidev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50" />
-  </a>
-  <a href="https://www.linkedin.com/in/nestordev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
-  </a>
-  <a href="https://nestoredi.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" height="40" />
-  </a>
-</div>
+![Frontend](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&perline=10)
+
+**Herramientas**
+
+![Tools](https://skillicons.dev/icons?i=git,github,maven,postman,linux,idea&perline=10)
 
 ---
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" height="120" alt="coding" />
-</div>
-
----
-
-<p align="center">
-  <b>💻 Construyendo APIs robustas que escalan en producción</b>
-</p>
